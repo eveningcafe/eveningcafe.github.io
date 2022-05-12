@@ -3,7 +3,7 @@ title: "Blog Guideline"
 date: 2019-08-22T14:40:59+07:00
 comments: true
 authors:
-  - kiennt
+  - hoanq
 showDate: true
 tags: ["blog", "tech"]
 readingTime: true ## show reading time after article date
