@@ -9,11 +9,11 @@ menu:
 ## Brief
 
 [//]: # ({{< figure src="/photos/linh-tinh/DSCF2637.JPG" >}})
-{{< figure src="/photos/try.png" >}}
+{{< figure src="/photos/cover.jpeg" >}}
 
 - System Engineer <a class="github-button" href="https://github.com/eveningcafe" data-color-scheme="no-preference: dark; light: dark; dark: dark;" aria-label="Follow @eveningcafe on GitHub">Follow @eveningcafe</a>
-- Freedom roller :bicycle:
 - Coffee lover :coffee:
+- Freedom roller :bicycle:
 - This website will mostly be a hub for my random non-tech interests, but at some point I might add some note related to technology here as well. 
 
 ## Getting in touch
