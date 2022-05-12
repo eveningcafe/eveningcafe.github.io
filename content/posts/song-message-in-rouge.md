@@ -1,16 +1,14 @@
 ---
-title: "Song Message in Rouge"
+title: "Message in Rouge - Yumi Arai"
 date: 2022-05-13T00:41:53+07:00
 showDate: true
 tags: ["music", "Yuming", "cobalt hour"]
 comments: true
 ---
 
-# Message in Rouge - Yumi Arai
-
 [ルージュの伝言](https://www.youtube.com/watch?v=eqdi6Px_RoY)
 
-[https://open.spotify.com/track/1jw992uwXhqJJ0H42ucTRL?si=64JYbxZzTzqWJ_mW_OUUMg&context=spotify%3Aalbum%3A5q4nqytaxLA99VEVJ6yQRu](https://open.spotify.com/track/1jw992uwXhqJJ0H42ucTRL?si=64JYbxZzTzqWJ_mW_OUUMg&context=spotify%3Aalbum%3A5q4nqytaxLA99VEVJ6yQRu)
+{{< spotify type="track" id="1jw992uwXhqJJ0H42ucTRL" width="100%" height="250" >}}
 
 *The song’s lyrics show a girl’s actions after finding out that her boyfriend cheated. What’s surprising is the fact that this girl is off on a journey to tell her boyfriend’s mother about the incident! (Yuming is the only one that can make these lyrics work.)*
 
@@ -112,7 +110,7 @@ Scold him over the phone, *My Darling!*
 
 (My little darling, my little darling)(My little darling, my little darling)
 
-**ROMAJi**
+**ROMAJI**
 
 ano hito no mama ni au tame ni
 
@@ -152,9 +150,9 @@ shikatte morau wa My Darling!
 
 shikatte morau wa My Darling!
 
-![Untitled](Messageinrouge/Untitled.png)
+{{< figure src="/photos/Messageinrouge/Untitled.png" >}}
 
 > **Collected from**:
-[https://www.kawaiikakkoiisugoi.com/tbt-rouge-no-dengon/31771/](https://www.kawaiikakkoiisugoi.com/tbt-rouge-no-dengon/31771/)
-[https://kimonobeat.tumblr.com/post/87073723448/matsutoya-yumi-lyrics-rouge-no-dengon](https://kimonobeat.tumblr.com/post/87073723448/matsutoya-yumi-lyrics-rouge-no-dengon)
+[tbt-rouge-no-dengon](https://www.kawaiikakkoiisugoi.com/tbt-rouge-no-dengon/31771/)
+[matsutoya-yumi-lyrics-rouge-no-dengon](https://kimonobeat.tumblr.com/post/87073723448/matsutoya-yumi-lyrics-rouge-no-dengon)
 >
