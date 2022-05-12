@@ -15,6 +15,8 @@ draft: true
 This guideline doesn't work anymore
 {{< /hint >}}
 
+> **_NOTE:_**  The blog structure belong to ntk148v, I'll live it here for respect origin author, although it doesn't work anymore. 
+
 In the beginning, I supposed that I'm the only one who write-up thing in this blog. But now thing was change, this blog might have multiple [bloggers](https://ntk148v.github.io/blog/authors/). So it needs a guideline to describe how to contribute.
 
 ![](https://sayingimages.com/wp-content/uploads/welcome-to-the-team-meme.jpg)
