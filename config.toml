@@ -44,7 +44,7 @@ unsafe = true
 
 [languages.en]
 languageName = "English"
-title = "/home/kiennt"
+title = "/home/hoa"
 
 [menu]
 [[menu.after]]
