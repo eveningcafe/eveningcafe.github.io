@@ -2,7 +2,7 @@
 title: "Message in Rouge - Yumi Arai"
 date: 2022-05-13T00:41:53+07:00
 showDate: true
-tags: ["music", "Yuming", "cobalt hour"]
+tags: ["music", "Yuming"]
 comments: true
 ---
 
