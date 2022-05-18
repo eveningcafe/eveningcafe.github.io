@@ -14,7 +14,7 @@ menu:
 - Engineer <a class="github-button" href="https://github.com/eveningcafe" data-color-scheme="no-preference: dark; light: dark; dark: dark;" aria-label="Follow @eveningcafe on GitHub">Follow @eveningcafe</a>
 - Coffee lover :coffee:
 - Freedom roller :bicycle:
-- Trang web dẩm dúi linh tinh của tôi, thường là những blog ít liên quan công việc. Mà chắc thi thoảng sẽ có note gì đó về tech. 
+- Trang web dẩm dúi linh tinh của tớ, thường là những blog ít liên quan công việc. Mà chắc thi thoảng sẽ có note gì đó về tech. 
 
 ## Liên hệ
 
