@@ -58,7 +58,6 @@ Có gì đó sẽ đến lúc kết thúc trong tớ
 \
 \
 \
-
 Tớ hành động như không có gì cả, nhưng tớ biết
 
 Câu đúng trong việc bỏ lại nơi đây
