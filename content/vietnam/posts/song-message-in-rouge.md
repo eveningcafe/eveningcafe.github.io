@@ -10,7 +10,7 @@ comments: true
 
 {{< spotify type="track" id="1jw992uwXhqJJ0H42ucTRL" width="100%" height="250" >}}
 
-*Bài hát kể câu chuyện về hành thình của một cô gái sau khi phát hiện bạn trai chít cổ (cheat). Vi diệu ở đây là cô ấy sẽ đi ... mách mẹ chàng trai.*
+*Bài hát kể câu chuyện về hành trình của một cô gái sau khi phát hiện bạn trai chít cổ (cheat). Vi diệu ở đây là cô ấy sẽ đi ... mách mẹ chàng trai.*
 
 *(Chỉ có Yuming mới hát được một bài như vậy.)*
 
