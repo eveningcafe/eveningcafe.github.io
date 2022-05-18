@@ -4,17 +4,7 @@ theme = "book"
 pygmentsCodefences = true
 enableEmoji = true
 enableGitInfo = true
-
 defaultContentLanguage = 'en'
-[languages]
-  [languages.vn]
-    contentDir = 'content/vietnam'
-    title = 'blog cua tui'
-    weight = 2
-  [languages.en]
-    contentDir = 'content/english'
-    title = 'My blog'
-    weight = 1
 
 [params]
 BookTheme = 'auto'
@@ -56,6 +46,13 @@ unsafe = true
 [languages.en]
 languageName = "English"
 title = "/home/hoa"
+contentDir = 'content/english'
+weight = 1
+[languages.vn]
+languageName = "Vietnam"
+title = "/home/hoa"
+contentDir = 'content/vietnam'
+weight = 2
 
 [menu]
 [[menu.after]]
