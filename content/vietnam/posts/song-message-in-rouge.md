@@ -38,7 +38,7 @@ Cho đến khi anh thôi lừa dối
 \
 \
 \
-Vẫn bồn chồn, nghe tiếng chuông Dinh-Dong khuất dần của thị trấn.
+Lòng bồn chồn, nghe tiếng chuông Dinh-Dong khuất dần của thị trấn.
 
 Ngày mai mẹ anh chắc chắn sẽ
 
@@ -56,7 +56,7 @@ Không biết anh có gọi tới tất cả nhà bạn bè
 \
 \
 \
-Vẫn bồn chồn, nghe tiếng chuông Dinh-Dong khuất dần của thị trấn.
+Lòng bồn chồn, nghe tiếng chuông Dinh-Dong khuất dần của thị trấn.
 
 Ngày mai mẹ anh chắc chắn sẽ
 
