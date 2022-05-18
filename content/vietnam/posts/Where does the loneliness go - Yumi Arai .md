@@ -10,7 +10,7 @@ comments: true
 
 {{< spotify type="track" id="0IHaFsawSv5DZTYWro05dd" width="100%" height="250" >}}
 
-**ENGLISH**
+**Lời dịch**
 
 Cậu sống ở một nơi xa tận cùng trái đất.
 
