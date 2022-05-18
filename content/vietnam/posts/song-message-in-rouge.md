@@ -30,7 +30,7 @@ Ngước theo những ngôi nhà và dòng xe lướt qua
 \
 Giờ đây chắc anh cũng đã phát hiện
 
-Dòng thư son môi trong nhà tắm
+Tin nhắn bằng son môi trong phòng tắm
 
 Tôi sẽ không về nhà
 
@@ -46,9 +46,9 @@ Gọi điện mắng anh cho xem, *Cưng à!*
 \
 \
 \
-Giờ chắc anh vẫn đang không hiểu ra
+Giờ chắc anh vẫn chưa hiểu được
 
-Dòng tin nhắn bằng son môi trong phòng tắm 
+Tin nhắn bằng son môi trong phòng tắm 
 
 Không biết anh có gọi tới tất cả nhà bạn bè
 
