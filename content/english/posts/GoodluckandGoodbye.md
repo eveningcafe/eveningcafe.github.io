@@ -11,7 +11,7 @@ comments: true
 {{< spotify type="track" id="7yPKhuiVdBm5JTvgqgRXtk" width="100%" height="250" >}}
 
 
-English
+**English**
 
 I met that nostalgic person in a crowd
 
@@ -57,33 +57,55 @@ Uw Good Luck and Good by
 
 ---
 
-Kanji
+**Kanji**
 
 なつかしいあのひとに 人ごみの中で会った
+
 微笑む顔が少しはにかむの
+
 昔のままだわ
-
+\
+\
+\
 傷ついた恋なのに もう跡形もないのよ
+
 偶然会えたら 泣きだしちゃうと
+
 思っていたのに
-
+\
+\
+\
 ショウ･ウィンドウを 横目で見れば
+
 待ち合わせした頃を 想うけど
-
+\
+\
+\
 今はもう 別々の恋人が待つ場所へと
+
 降りだした雨に追いたてられて
+
 急いでゆくのよ
-
+\
+\
+\
 やっぱりあなた 送ってほしい
+
 わたしのバスが 遠く消えるまで
-
+\
+\
+\
 ふりかえる大通り あのひとに見えるように
+
 混んだバスの くもった窓に書く
-大きく Good luck and Good bye
-大きく Good luck and Good bye
+
 大きく Good luck and Good bye
 
-ROMAJI
+大きく Good luck and Good bye
+
+大きく Good luck and Good bye
+
+**ROMAJI**
 
 Natsukashi ano hito ni hitogomi no naka de atta
 
