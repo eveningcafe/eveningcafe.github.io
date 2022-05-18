@@ -12,55 +12,64 @@ comments: true
 
 **ENGLISH**
 
-You live in a country at the ends of the earth. 
+Cậu sống ở một nơi xa tận cùng trái đất.
 
-Did you only come back
+Có khi nào cậu trở về
 
-Because you missed the peaceful winter scenery here?
+Vì cậu nhớ cái không khí mùa đông an lành nơi đây?
 
-Did you only call me out of the blue, and tell me we should meet up
+Có khi nào cậu tự nhiên gọi tớ, hẹn gặp tớ?
 
-To ask what had happened to all your old friends, too?
+Cũng để hỏi xem tình hình bạn bè chúng ta thế nào.
+\
+\
+\
+Có thể tớ xem như không, nhưng trong lòng tớ biết
 
-I might act tough, but only I know
+Cậu đang bước đi theo hành trình của mình
 
-You left on a journey then
+Chúng ta đều ôm chặt sự cô đơn trong lòng
 
-We embraced each other’s loneliness
+Ngoài ra không cần mang theo gì khác
+\
+\
+\
+Tớ cảm ơn khi cậu nói "không có gì, đừng bận tâm"
 
-And carried nothing else
+Khi tớ hành động như tớ vốn là, đừng cười nhé
 
-I still treasure the fact that you said you didn’t mind
+Mọi người tưởng tớ tự do làm gì mình thích
 
-Me being the way I amーdon’t laugh at me for that
+Nhưng chẳng ai biết được bóng đêm trong lòng tớ
+\
+\
+\
+Tớ hành động như không có gì cả, nhưng tớ biết chứ
 
-People think I did whatever I wanted
+Cậu vẫn đúng trong chuyện sẽ lại ra đi
 
-But that’s only because no one knows the dark side of my heart
+Dù mọi người khác - cô đơn trong lòng sẽ không thông cảm cho cậu
 
-I might act tough, but only I know
+Nhìn cậu dương cánh bay về phía mặt trời
 
-You’re right about to leave again
+Khi tớ vẫn đứng yên nơi đây với chút ánh sáng tàn lại của thành phố
 
-But other people being lonely won’t save you
+Có gì đó sẽ đến lúc kết thúc trong tớ
+\
+\
+\
 
-I watch your wings as you go in the sunset
+Tớ hành động như không có gì cả, nhưng tớ biết
 
-When I stand still and stare at the remaining lights of town
+Câu đúng trong việc bỏ lại nơi đây
 
-Something really will come to an end inside me
+Dù cho mọi người cô đơn, sẽ không thông cảm cho cậu
 
-I might act tough, but I’m the only who knows
+Nhìn cậu dương cánh bay về phía hoàng hôn
 
-You’re right about to leave again
+Khi tớ lặng im với chút ánh sáng thành phố còn sót lại
 
-But other people being lonely won’t save you
-
-I watch your wings as you go in the sunset
-
-When I stand still and stare at the remaining lights of town
-
-Something really will come to an end inside me Something really will come to an end
+Có gì đó đã chết trong tớ, có gì đó đã thực sự kết thúc.
 
 ---
 
