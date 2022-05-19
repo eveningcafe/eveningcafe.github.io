@@ -6,7 +6,6 @@ tags: ["music", "Yuming"]
 comments: true
 ---
 
-# Where does the loneliness go - Yumi Arai
 
 {{< spotify type="track" id="0IHaFsawSv5DZTYWro05dd" width="100%" height="250" >}}
 
