@@ -19,7 +19,7 @@ Vì cậu nhớ cái không khí mùa đông an lành nơi đây?
 
 Có khi nào cậu tự nhiên gọi tớ, hẹn gặp tớ?
 
-Cũng để hỏi xem tình hình bạn bè chúng ta thế nào.
+Cũng để hỏi xem tình hình những người bạn cũ của chúng ta.
 \
 \
 \
