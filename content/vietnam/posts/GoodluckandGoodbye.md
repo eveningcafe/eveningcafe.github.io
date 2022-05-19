@@ -27,7 +27,6 @@ Tôi đã nghĩ vậy.
 \
 \
 \
-
 Nếu nhìn sang cửa kính cửa hàng bên
 
 Hồi ức lúc còn gặp gỡ sẽ trở lại
@@ -43,7 +42,7 @@ Và cơn mưa bắt đầu rơi
 \
 \
 \
-Sau cùng thì, tôi muốn bạn tiễn tôi
+Sau cùng thì, tôi vẫn muốn anh tiễn tôi
 
 Cho đến khi xe buýt chở tôi khuất dạng
 
