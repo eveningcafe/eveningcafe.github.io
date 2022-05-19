@@ -2,9 +2,10 @@
 title: "Good luck and Goodbye - Yumi Arai"
 date: 2022-05-19T06:43:46+07:00
 comments: true
+tags: ["music", "Yuming"]
+
 ---
 
-# Good luck and Goodbye - Yumi Arai
 
 **[グッドラック･アンド･グッドバイ](https://youtu.be/vAopUXkSolc)**
 
