@@ -22,7 +22,6 @@ It’s the same as it used to be
 \
 \
 \
-
 It’s a hurt love, but there ’s no trace anymore.
 
 If you happen to meet me, you will start crying
