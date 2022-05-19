@@ -23,7 +23,7 @@ Cũng để hỏi xem tình hình những người bạn cũ của chúng ta.
 \
 \
 \
-Có thể tớ xem như không, nhưng trong lòng tớ biết
+Có thể tớ tỏ ra xấu xa, nhưng trong lòng tớ biết
 
 Cậu đang bước đi theo hành trình của mình.
 
@@ -43,7 +43,7 @@ Nhưng chẳng ai biết được bóng đêm trong lòng tớ.
 \
 \
 \
-Tớ hành động như không có gì cả, nhưng tớ biết chứ
+Có thể tớ tỏ ra xấu xa, nhưng tớ biết chứ
 
 Cậu vẫn đúng trong chuyện sẽ lại ra đi.
 
@@ -57,7 +57,7 @@ Có gì đó sẽ đến lúc kết thúc trong tớ.
 \
 \
 \
-Tớ hành động như không có gì cả, nhưng tớ biết
+Tớ cố tỏ ra xấu xí, nhưng tớ biết
 
 Câu đúng trong việc bỏ lại nơi đây.
 
@@ -96,7 +96,9 @@ Có gì đó đã chết trong tớ, có gì đó đã thực sự kết thúc.
 したいことをしてきたと 人は思っているけど
 
 心の翳は誰にも わかるものじゃないから
-
+\
+\
+\
 悪ぶるわたししか知らず
 
 あなたはまたすぐ行くけど
@@ -107,8 +109,10 @@ Có gì đó đã chết trong tớ, có gì đó đã thực sự kết thúc.
 
 残った都会の光 見つめてたたずめば
 
-そのときわたしの中で 何かが本当に終わる
-
+そのときわたしの中で 何かが本当に終わ
+\
+\
+\
 悪ぶるわたししか知らず
 
 あなたはまたすぐ行くけど
