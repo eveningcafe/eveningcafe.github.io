@@ -4,7 +4,7 @@ date: 2022-05-19T06:43:46+07:00
 comments: true
 ---
 
-# Good luck and Goodbye - Yumi Arai
+
 
 **[グッドラック･アンド･グッドバイ](https://youtu.be/vAopUXkSolc)**
 
