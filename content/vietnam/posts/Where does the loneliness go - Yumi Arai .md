@@ -33,13 +33,13 @@ Ngoài ra không cần mang theo gì khác.
 \
 \
 \
-Cảm ơn khi cậu nói "không có gì, đừng bận tâm"
+Tớ vẫn cảm ơn khi cậu nói cậu không bận tâm
 
 Khi tớ hành động như tớ vốn là, đừng cười nhé.
 
-Mọi người tưởng tớ tự do làm gì mình thích
+Mọi người nghĩ tớ tự do làm gì mình muốn 
 
-Nhưng chẳng ai biết được bóng đêm trong lòng tớ.
+Nhưng chẳng ai hiểu được bóng đêm trong lòng.
 \
 \
 \
