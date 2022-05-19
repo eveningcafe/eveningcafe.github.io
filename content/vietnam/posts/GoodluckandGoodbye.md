@@ -11,49 +11,54 @@ comments: true
 {{< spotify type="track" id="7yPKhuiVdBm5JTvgqgRXtk" width="100%" height="250" >}}
 
 
-**English**
+**Lời dịch**
 
-I met that nostalgic person in a crowd
+Tôi đã gặp lại người đàn ông hoài cổ đó, trong dòng người đông đúc
 
-The smiling face bites a little
+Nụ cười có chút ngượng ngùng, như nó đã từng.
 \
 \
 \
-It’s the same as it used to beIt’s a hurt love, but there ’s no trace anymore.
-If you happen to meet me, you will start crying
-I was thinking
+Đó là một tình yêu khổ đau, nhưng hiện tại cũng không còn dấu vết.
+
+Nếu tình cờ gặp lại tôi, anh sẽ khóc
+
+Tôi đã nghĩ vậy.
 \
 \
 \
-If you look at the show window sideways
 
-I think of the time when I met
+Nếu nhìn sang cửa kính cửa hàng bên
+
+Hồi ức lúc còn gặp gỡ sẽ trở lại
 \
 \
 \
-Now to the place where different lovers wait
+Giờ, tới lúc đi tới nơi người yêu tôi đang đợi
 
-Being chased by the rain
+Tôi đang rất vội
 
-I’m in a hurry
+Và cơn mưa bắt đầu rơi
+
 \
 \
 \
-After all I want you to watch me off
+Sau cùng thì, tôi muốn bạn tiễn tôi
 
-Until my bus disappears far away
+Cho đến khi xe buýt chở tôi khuất dạng
 
-Looking back on the main street so that it looks like that person
+Nhìn về phía đại lộ, hình như con người ấy 
 
-Write on the cloudy window of a crowded bus
+Đã viết lên tấm kính mờ của chiếc xe buýt đông đúc
 
-Big Good luck and Good by
+Dòng chữ thật to 「Good luck and Good bye」
 
-Big Good luck and Good by
+Dòng chữ thật to 「Good luck and Good bye」
 
-Big Good luck and Good by
+Dòng chữ thật to 「Good luck and Good bye」
 
-Uw Good Luck and Good by
+
+Uwmm Good Luck and Good bye
 
 ---
 
