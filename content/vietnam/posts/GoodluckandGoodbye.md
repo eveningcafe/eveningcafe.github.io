@@ -16,9 +16,9 @@ tags: ["music", "Yuming"]
 
 **Lời dịch**
 
-Tôi đã gặp lại người đàn ông hoài cổ đó, trong dòng người đông đúc.
+Tôi đã gặp lại người đàn ông hoài cổ đó, trong đám đông.
 
-Nụ cười có chút ngượng ngùng, như nó đã từng.
+Nụ cười có vương chút ngại ngùng, như nó đã từng.
 \
 \
 \
