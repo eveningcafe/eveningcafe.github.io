@@ -21,7 +21,9 @@ Because you missed the peaceful winter scenery here?
 Did you only call me out of the blue, and tell me we should meet up
 
 To ask what had happened to all your old friends, too?
-
+\
+\
+\
 I might act tough, but only I know
 
 You left on a journey then
@@ -29,7 +31,9 @@ You left on a journey then
 We embraced each other’s loneliness
 
 And carried nothing else
-
+\
+\
+\
 I still treasure the fact that you said you didn’t mind
 
 Me being the way I amーdon’t laugh at me for that
@@ -37,7 +41,9 @@ Me being the way I amーdon’t laugh at me for that
 People think I did whatever I wanted
 
 But that’s only because no one knows the dark side of my heart
-
+\
+\
+\
 I might act tough, but only I know
 
 You’re right about to leave again
@@ -49,7 +55,9 @@ I watch your wings as you go in the sunset
 When I stand still and stare at the remaining lights of town
 
 Something really will come to an end inside me
-
+\
+\
+\
 I might act tough, but I’m the only who knows
 
 You’re right about to leave again
