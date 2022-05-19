@@ -25,43 +25,43 @@ Cũng để hỏi xem tình hình những người bạn cũ của chúng ta.
 \
 Có thể tớ xem như không, nhưng trong lòng tớ biết
 
-Cậu đang bước đi theo hành trình của mình
+Cậu đang bước đi theo hành trình của mình.
 
-Chúng ta đều ôm chặt sự cô đơn trong lòng
+Chúng ta đều ôm chặt nỗi cô đơn trong lòng
 
-Ngoài ra không cần mang theo gì khác
+Ngoài ra không cần mang theo gì khác.
 \
 \
 \
-Tớ cảm ơn khi cậu nói "không có gì, đừng bận tâm"
+Cảm ơn khi cậu nói "không có gì, đừng bận tâm"
 
-Khi tớ hành động như tớ vốn là, đừng cười nhé
+Khi tớ hành động như tớ vốn là, đừng cười nhé.
 
 Mọi người tưởng tớ tự do làm gì mình thích
 
-Nhưng chẳng ai biết được bóng đêm trong lòng tớ
+Nhưng chẳng ai biết được bóng đêm trong lòng tớ.
 \
 \
 \
 Tớ hành động như không có gì cả, nhưng tớ biết chứ
 
-Cậu vẫn đúng trong chuyện sẽ lại ra đi
+Cậu vẫn đúng trong chuyện sẽ lại ra đi.
 
-Dù mọi người khác - cô đơn trong lòng sẽ không thông cảm cho cậu
+Dù mọi người khác - với sự cô đơn sẽ không thông cảm cho cậu.
 
 Nhìn cậu dương cánh bay về phía mặt trời
 
 Khi tớ vẫn đứng yên nơi đây với chút ánh sáng tàn lại của thành phố
 
-Có gì đó sẽ đến lúc kết thúc trong tớ
+Có gì đó sẽ đến lúc kết thúc trong tớ.
 \
 \
 \
 Tớ hành động như không có gì cả, nhưng tớ biết
 
-Câu đúng trong việc bỏ lại nơi đây
+Câu đúng trong việc bỏ lại nơi đây.
 
-Dù cho mọi người cô đơn, sẽ không thông cảm cho cậu
+Dù cho mọi người cô đơn, sẽ không thông cảm.
 
 Nhìn cậu dương cánh bay về phía hoàng hôn
 
