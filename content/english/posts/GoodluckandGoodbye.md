@@ -43,7 +43,7 @@ I’m in a hurry
 \
 \
 \
-After all I want you to watch me off
+After all I want you to see me off
 
 Until my bus disappears far away
 
