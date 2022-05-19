@@ -13,7 +13,7 @@ comments: true
 
 **Lời dịch**
 
-Tôi đã gặp lại người đàn ông hoài cổ đó, trong dòng người đông đúc
+Tôi đã gặp lại người đàn ông hoài cổ đó, trong dòng người đông đúc.
 
 Nụ cười có chút ngượng ngùng, như nó đã từng.
 \
@@ -29,22 +29,22 @@ Tôi đã nghĩ vậy.
 \
 Nếu nhìn sang cửa kính cửa hàng bên
 
-Hồi ức lúc còn gặp gỡ sẽ trở lại
+Hồi ức lúc còn gặp gỡ sẽ trở lại.
 \
 \
 \
-Giờ, tới lúc đi tới nơi người yêu tôi đang đợi
+Giờ, tới lúc đi tới nơi người yêu tôi đang đợi.
 
 Tôi đang rất vội
 
-Và cơn mưa bắt đầu rơi
+Và cơn mưa bắt đầu rơi.
 
 \
 \
 \
 Sau cùng thì, tôi vẫn muốn anh tiễn tôi
 
-Cho đến khi xe buýt chở tôi khuất dạng
+Cho đến khi xe buýt chở tôi khuất dạng.
 
 Nhìn về phía đại lộ, hình như con người ấy 
 
