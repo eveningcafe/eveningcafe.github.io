@@ -17,10 +17,11 @@ tags: ["music", "Yuming"]
 I met that nostalgic person in a crowd
 
 The smiling face bites a little
-\
-\
-\
+
 It’s the same as it used to be
+\
+\
+\
 
 It’s a hurt love, but there ’s no trace anymore.
 
