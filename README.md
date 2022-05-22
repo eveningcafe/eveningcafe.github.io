@@ -1,8 +1,6 @@
 # Nothing but Blog
 
-My personal blog using [Hugo](https://gohugo.io/). Visit [here](https://ntk148v.github.io/blog).
-
-[Blog Guideline](https://ntk148v.github.io/blog/posts/blog-guideline/)
+My personal blog using [Hugo](https://gohugo.io/). Visit [here](https://eveningcafe.github.io/blog).
 
 > NOTE: The previous versions used:
 >
