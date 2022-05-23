@@ -1,4 +1,4 @@
-baseurl = "https://eveningcafe.github.io/blog"
+baseurl = "https://eveningcafe.github.io"
 languageCode = "en-us"
 theme = "book"
 pygmentsCodefences = true
@@ -8,7 +8,7 @@ defaultContentLanguage = 'en'
 
 [params]
 BookTheme = 'auto'
-BookRepo = 'https://github.com/eveningcafe/blog'
+BookRepo = 'https://github.com/eveningcafe/eveningcafe.github.io'
 BookComments = true
 BookServiceWorker = true
 BookDateFormat = 'Jan 02, 2006'
