@@ -2,7 +2,7 @@
 title: "Where does the loneliness go - Yumi Arai"
 date: 2022-05-14T18:19:53+07:00
 showDate: true
-tags: ["music", "Yuming"]
+tags: ["CityPop", "Yuming"]
 comments: true
 ---
 
