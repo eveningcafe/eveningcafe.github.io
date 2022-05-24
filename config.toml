@@ -1,0 +1,61 @@
+baseurl = "https://eveningcafe.github.io"
+languageCode = "en-us"
+theme = "book"
+pygmentsCodefences = true
+enableEmoji = true
+enableGitInfo = true
+defaultContentLanguage = 'en'
+
+[params]
+BookTheme = 'auto'
+BookRepo = 'https://github.com/eveningcafe/eveningcafe.github.io'
+BookComments = true
+BookServiceWorker = true
+BookDateFormat = 'Jan 02, 2006'
+BookEditPath = 'edit/master'
+BookCommitPath = 'commit'
+
+# set all headings to their default size (depending on browser settings)
+# it's set to `true` by default
+# oneHeadingSize = false
+[markup]
+codeFences = true
+noClasses = false
+
+[markup.tableOfContents]
+endLevel = 4
+ordered = false
+startLevel = 2
+
+[markup.highlight]
+style = 'xcode'
+noClasses = true
+codeFences = true
+guessSyntax = false
+hl_Lines = ""
+lineNoStart = 1
+lineNos = true
+lineNumbersInTable = true
+tabWidth = 4
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[languages]
+
+[languages.en]
+languageName = "English"
+title = "/home/hoa"
+contentDir = 'content/english'
+weight = 1
+[languages.vn]
+languageName = "Vietnam"
+title = "/home/hoa"
+contentDir = 'content/vietnam'
+weight = 2
+
+[menu]
+[[menu.after]]
+name = "Notes"
+url = "https://eveningcafe.github.io/notess"
+weight = 10
