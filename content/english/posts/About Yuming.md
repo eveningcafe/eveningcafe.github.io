@@ -31,7 +31,6 @@ A: Simple tunes. The kind that, once you've heard them a couple of times, you th
 
 A: Yes, e.g. there's the [official homepage](http://www.toshiba-emi.co.jp/yuming/) maintained by her record company Toshiba/EMI. It contains a complete discography and sound clips from all of her songs. And there are a number of [other sites](http://jpop.hatch.co.jp/scripts/jsearch1.pl?keyword=Matsutoya+Yumi) (mostly in Japanese, I'm afraid) maintained by fans. The "Famous Personages in Japan" project of Kyoto Sangyo University contains a [short presentation](http://www.kyoto-su.ac.jp/information/famous/matsutoyay.html) of her in English. Hong Kong fan Ray has a [Chinese/English site](http://www1.netzany.com/acacia/) with news and concert reports. There's an [English language mailing list](http://groups.yahoo.com/group/yuming/) (Yahoo group) devoted to her and her music that you may/must want to join.
 
-### Q: So, what's the point of posting on this page?
+### Q: So, what's the point of posting her song on this web?
 
-**Me**: Lyrics collection, in romaji kanji and english. When you’re young you used to have
-a note full of lyrics too, right? I've tried to translate some to vietnamese as well, saddly not directly form japanese but form english lyric.
+**Me**: Lyrics collection, in romaji kanji and English.  I've tried to translate some to Vietnamese as well, saddly not directly from japanese but from english lyric. Back when you’re young, you used to have a note full of lyrics too, right? Correct me if you found something wrong in my translation. :revolving_hearts:
