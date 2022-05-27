@@ -33,4 +33,4 @@ A: Yes, e.g. there's the [official homepage](http://www.toshiba-emi.co.jp/yumin
 
 ### Q: So, what's the point of posting her song on this web?
 
-**Me**: Lyrics collection, in romaji kanji and English.  I've tried to translate some to Vietnamese as well, saddly not directly from japanese but from english lyric. Back when you’re young, you used to have a note full of lyrics too, right? Correct me if you found something wrong in my translation. :revolving_hearts:
+**Me**: Lyrics collection, in romaji kanji and English.  I've tried to translate some to Vietnamese as well, saddly not directly from japanese but from english lyric. Back when you’re young, you used to have a notebook full of lyrics too, right? Correct me if you found something wrong in my translation. :revolving_hearts:
