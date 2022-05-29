@@ -12,7 +12,7 @@ comments: true
 
 *The song’s lyrics show a girl’s actions after finding out that her boyfriend cheated. What’s surprising is the fact that this girl is off on a journey to tell her boyfriend’s mother about the incident! (Yuming is the only one that can make these lyrics work.)*
 
-** 
+***
 
 **ENGLISH**
 
