@@ -61,9 +61,9 @@ You don’t have to be kind. Just be your calm self and stay close to me
 まるで私の恋を
 
 注意深く交わすように
+`
 
-
-
+\
 きついズックのかかと
 
 ふんで私前を行けば
@@ -72,8 +72,7 @@ You don’t have to be kind. Just be your calm self and stay close to me
 
 ほんの少し感じるかも
 
-
-
+\
 低い雲間に
 
 天気雨
@@ -81,9 +80,9 @@ You don’t have to be kind. Just be your calm self and stay close to me
 みるみる煙る
 
 水平線
+` `
 
-
-
+\
 サーフボード直しに
 
 「ゴッデス」まで 行くと言った
@@ -91,9 +90,9 @@ You don’t have to be kind. Just be your calm self and stay close to me
 邪魔になるの知ってて
 
 無理にここへ来てごめんね
+` `
 
-
-
+\
 夏の始めの
 
 通り雨
@@ -103,7 +102,7 @@ You don’t have to be kind. Just be your calm self and stay close to me
 誰のせい？
 
 
-
+\
 白いハウスをながめ
 
 相模線にゆられて来た
@@ -111,7 +110,7 @@ You don’t have to be kind. Just be your calm self and stay close to me
 茅ヶ崎までのあいだ
 
 貴方だけを想っていた
-
+` `
 
 
 優しくなくていいよ
