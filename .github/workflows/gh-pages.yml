@@ -1,6 +1,9 @@
 name: github pages
 
 on:
+  schedule:
+    - cron: "0 0 * * *" # Every day at midnight.
+  workflow_dispatch:
   push:
     branches:
       - master  # Set a branch to deploy
