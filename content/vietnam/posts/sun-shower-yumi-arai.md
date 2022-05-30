@@ -11,6 +11,76 @@ comments: true
 
 {{< spotify type="track" id="4E2JY90e42g47nq4NUguri" width="100%" height="250" >}}
 
+--- 
+**Lời dịch**
+
+Dạo bước bên những đợt sóng,
+
+anh cố tránh khỏi ướt. 
+
+Cũng như cách anh cẩn thận 
+
+Tránh để phải lòng em vậy.
+
+\
+Nếu em bước phía trước anh 
+
+trên đôi zipper-heel cao. 
+
+Thấy gót chân xinh của em
+
+Anh có thấy gì không? 
+
+\
+Giữa những đám mây thâm thấp 
+
+Bất chợt một cơn mưa bóng mây 
+
+Khói sương tỏa ra 
+
+Vương chân trời.
+
+\
+Để sửa lại ván lướt sóng 
+
+Anh nói anh cần đến tiệm "Goddesu"
+
+Em biết là cản trở, 
+
+khi đưa anh tới tận đây
+
+\
+:notes:  :musical_note: :notes: :notes:
+
+\
+Mưa rào đầy đường
+
+là không may thôi  
+
+ai mà biết chứ
+
+lỗi của ai ?
+
+\
+Rung rinh trên tuyến tàu Sagami  
+
+Nhìn từng ngôi nhà trắng.
+
+Tận đến đến Chigasaki 
+
+Em chỉ nghĩ có anh 
+
+\
+Anh không tử tế cũng được 
+
+Từ từ bình tâm ạ, chỉ cần bên em thôi
+
+là được rồi. 
+
+:notes:  :musical_note: :notes: :notes:
+:notes:  :musical_note: :notes: :notes:
+
+---
 
 **English**
 
@@ -61,7 +131,6 @@ You don’t have to be kind. Just be your calm self and stay close to me
 まるで私の恋を
 
 注意深く交わすように
-`
 
 \
 きついズックのかかと
