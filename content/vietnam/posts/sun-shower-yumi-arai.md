@@ -50,7 +50,7 @@ Em biết là cản trở,
 khi đưa anh tới tận đây
 
 \
-:notes:  :musical_note: :notes: :notes:
+:notes: :notes: :notes:
 
 \
 Mưa rào đầy đường
@@ -77,9 +77,7 @@ Từ từ bình tâm ạ, chỉ cần bên em thôi
 
 là được rồi. 
 
-:notes:  :musical_note: :notes: :notes:
-
-:notes:  :musical_note: :notes: :notes:
+:musical_note: :musical_note: :musical_note:
 
 ---
 
