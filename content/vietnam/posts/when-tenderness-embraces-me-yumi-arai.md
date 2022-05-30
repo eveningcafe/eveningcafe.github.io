@@ -16,7 +16,7 @@ Khi tôi còn bé tí, thiên thần đã ở bên,
 
 Bí ẩn biến những ước mơ của tôi thành hiện thực
 
-Nhẹ nhàng thức giấc vào buổi sáng nọ, tôi thấy
+Nhẹ nhàng thức giấc vào buổi sáng nọ, tôi bỗng thấy
 
 Những điều diệu kỳ, dù đã lớn, vẫn xảy ra.
 
