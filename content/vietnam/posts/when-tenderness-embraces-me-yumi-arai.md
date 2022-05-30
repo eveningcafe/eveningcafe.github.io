@@ -10,51 +10,51 @@ comments: true
 
 {{< spotify type="track" id="3CtnuBSfdpoxHglOGGPgmU" width="100%" height="250" >}}
 
-**English**
+**Lời dịch**
 
-When I was small, God was there
+Khi tôi còn bé tí, thiên thần đã ở bên, 
 
-to mysteriously make my dreams come true.
+Bí ẩn biến những ước mơ của tôi thành hiện thực
 
-On mornings when I'm woken by gentle feelings,
+Nhẹ nhàng thức giấc vào buổi sáng nọ, 
 
-miracles happen, even though I've become an adult.
+Những được điều diệu kỳ, dù đã lớn, vẫn xảy ra.
 
-` `
 
-Opening the curtains, the quiet sunlight that filters through the trees
+\
+Mở cánh rèm, nhìn những ánh nắng xuyên qua tán cây...
 
-When tenderness embraces me, then surely
+Khi sự dịu dàng bao bọc, nâng đỡ chắc chắn bạn sẽ  
 
-everything reflected to my eyes is a message
+Cảm nhận được thông điệp qua mọi thứ.
 
-` `
+:musical_note: :musical_note:
 
-When I was small, God was there
+\
+Khi còn nhỏ, luôn có một vị thần 
 
-To deliver love every day.
+Mang yêu thương tới mỗi ngày 
 
-I had forgotten that precious box
+Và tôi đã để quên nó trong chiếc hộp 
 
-inside my heart, but it's time to open it now.
+ở sâu thẳm trái tim, giờ đã đến lúc mở ra.
 
-` `
+\
+Khi ngửi thấy mùi bạc hà, trong khu vườn sau cơm mưa 
 
-In the garden after the rain, smells like jasmine
+Khi sự dịu dàng ôm ấp tôi, thì tự nhiên. 
 
-When tenderness embraces me, then surely
+Mọi thứ phản chiếu vào trong ánh mắt tôi, đều ý nghĩa.
 
-everything reflected to my eyes is a message
+\
+Mở tấm rèm cửa, những tia nắng yên tĩnh chiếu qua tán cây
 
-` `
+Khi sự dịu dàng bao bọc, chắc chắn 
 
-Opening the curtains to the sun between the trees
+Bạn sẽ cảm nhận được nó, lời nhắn. 
 
-When tenderness embraces me
+--- 
 
-All I see is a message
-
-` `
 
 **Kanji**
 
@@ -66,16 +66,14 @@ All I see is a message
 
 大人になっても 奇跡は起こるよ
 
-` `
-
+\
 カーテンを開いて 静かな木漏れ日の
 
 やさしさに包まれたなら きっと
 
 目に映る全てのことは メッセージ
 
-` `
-
+\
 小さい頃は神様がいて
 
 毎日愛を届けてくれた
@@ -84,25 +82,22 @@ All I see is a message
 
 大切な箱 開くときは今
 
-` `
-
+\
 雨上がりの庭で くちなしの
 
 香りのやさしさに包まれたなら きっと
 
 目に映る全てのことは メッセージ
 
-` `
-
+\
 カーテンを開いて 静かな木漏れ日の
 
 やさしさに包まれたなら きっと
 
 目に映る全てのことは メッセージ
 
-` `
-
-ROMAJI
+\
+**ROMAJI**
 
 *chiisai koro wa, kamisama ga ite*
 
