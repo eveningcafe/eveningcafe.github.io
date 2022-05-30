@@ -66,7 +66,7 @@ Rung rinh trên tuyến tàu Sagami
 
 nhìn từng ngôi nhà trắng.
 
-Tận đến đến Chigasaki 
+Tận đến ga Chigasaki 
 
 Em chỉ nghĩ có anh. 
 
