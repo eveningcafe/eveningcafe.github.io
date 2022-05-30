@@ -83,46 +83,6 @@ là được rồi.
 
 ---
 
-**English**
-
-Walking along the edge of the waves, you try not to get wet
-
-It’s as if you were carefully dodge my love.
-
-If I walk in front of you while stepping on a tight zipper heel
-
-You’ll see my bare feet and perhaps feel a little something
-
-` `
-
-From between the low-lying clouds, a sun shower
-
-The horizon is hazy with smoke
-
-` `
-
-You told me you were going to Goddess to fix your surfboard
-
-I know I'm in your way, sorry I pushed you to come here
-
-` `
-
-Street rain in the beginning of summer
-
-It's not your lucky day, 
-
-Who’s the fault?
-
-` `
-
-Looking at the white house, I was shaken by the Sagami Line
-
-Until I came to Chigasaki, I only thought of you
-
-You don’t have to be kind. Just be your calm self and stay close to me
-
-` `
-
 **Kanji**
 
 波打ち際をうまく
