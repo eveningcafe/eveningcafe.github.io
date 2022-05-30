@@ -73,7 +73,7 @@ Em chỉ nghĩ có anh.
 \
 Anh không tử tế cũng được 
 
-Từ từ bình tâm ạ, chỉ cần bên em thôi
+Từ từ bình tâm ạ, chỉ cần bên em thôi, 
 
 là được rồi. 
 
