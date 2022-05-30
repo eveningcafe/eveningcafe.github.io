@@ -64,11 +64,11 @@ lỗi của ai ?
 \
 Rung rinh trên tuyến tàu Sagami  
 
-Nhìn từng ngôi nhà trắng.
+nhìn từng ngôi nhà trắng.
 
 Tận đến đến Chigasaki 
 
-Em chỉ nghĩ có anh 
+Em chỉ nghĩ có anh. 
 
 \
 Anh không tử tế cũng được 
@@ -78,6 +78,7 @@ Từ từ bình tâm ạ, chỉ cần bên em thôi
 là được rồi. 
 
 :notes:  :musical_note: :notes: :notes:
+
 :notes:  :musical_note: :notes: :notes:
 
 ---
