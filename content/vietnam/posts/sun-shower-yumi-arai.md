@@ -29,7 +29,7 @@ trên đôi zipper-heel cao.
 
 Thấy gót chân xinh của em
 
-Anh có thấy gì không? 
+Anh có cảm thấy gì? 
 
 \
 Giữa những đám mây thâm thấp 
