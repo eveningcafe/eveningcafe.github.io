@@ -22,27 +22,27 @@ Những điều diệu kỳ, dù đã lớn, vẫn xảy ra.
 
 
 \
-Mở cánh rèm, nhìn những ánh nắng xuyên qua tán cây...
+Mở tấm rèm, nhìn những ánh nắng nhảy qua tán cây...
 
-Khi sự dịu dàng bao bọc, nâng đỡ chắc chắn bạn sẽ  
+Khi được sự dịu dàng bảo bọc, chắc chắn bạn sẽ
 
-Cảm nhận được thông điệp qua mọi thứ.
+Cảm nhận được thông điệp, qua mọi thứ.
 
 :musical_note: :musical_note:
 
 \
 Khi còn nhỏ, luôn có một vị thần 
 
-Mang yêu thương tới mỗi ngày 
+Ngài mang yêu thương tới mỗi ngày 
 
-Và tôi đã để quên nó trong chiếc hộp 
+Tôi đã để quên nó trong chiếc hộp 
 
-ở sâu thẳm trái tim, giờ đã đến lúc mở ra.
+ở sâu thẳm trái tim, nhưng giờ đã đến lúc mở ra.
 
 \
-Khi ngửi thấy mùi bạc hà, trong khu vườn sau cơm mưa 
+Khi ngửi thấy mùi bạc hà, trong khu vườn sau cơn mưa 
 
-Khi sự dịu dàng ôm ấp tôi, thì tự nhiên. 
+Khi sự dịu dàng ôm ấp tôi, tự nhiên rằng
 
 Mọi thứ phản chiếu vào trong ánh mắt tôi, đều ý nghĩa.
 
@@ -51,7 +51,7 @@ Mở tấm rèm cửa, những tia nắng yên tĩnh chiếu qua tán cây
 
 Khi sự dịu dàng bao bọc, chắc chắn 
 
-Bạn sẽ cảm nhận được nó, lời nhắn. 
+Bạn sẽ cảm nhận được nó, một lời nhắn.
 
 --- 
 
