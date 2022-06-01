@@ -1,5 +1,5 @@
 ---
-title: 'CHINESE SOUP - Yumi Arai'
+title: 'Chinese soup - Yumi Arai'
 showDate: true
 comments: true
 date: 2022-05-31

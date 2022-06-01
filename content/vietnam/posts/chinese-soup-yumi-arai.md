@@ -1,5 +1,5 @@
 ---
-title: 'CHINESE SOUP - Yumi Arai'
+title: 'Chinese soup - Yumi Arai'
 showDate: true
 comments: true
 date: 2022-05-31
@@ -16,12 +16,12 @@ Tước vỏ của ít quả đậu hà lan.
 
 Nếu hạt là trái tim em
 
-Thì vỏ chắc sẽ là những chàng trai em chia tay
+Thì vỏ chắc sẽ là những chàng trai em từng chia tay
 
 \
 Tất cả, đều chìm tràn nơi đáy nồi 
 
-Chúng nhừ mất dạng khi em ninh.
+Chúng nhừ mất dạng lúc em ninh.
 
 Sắm rồi, tí nữa thôi, sẽ xong xuôi.
 
@@ -59,29 +59,47 @@ Tối nay soup là  *Chinese soup*
 ---
 **Kanji**
 
-```plain text
 椅子に座って爪を立て
+
 莢えんどうのすじをむく
+
 莢がわたしの心なら
+
 豆はわかれたおとこたち
+
 みんなこぼれて鍋の底
+
 煮込んでしまえば形もなくなる
+
 もうすぐ出来上がり
+
 あなたのために Chinese soup
+
 今夜のスープは Chinese soup
 
+\
 遅い帰りを待つときは
+
 プティオニオンのみじん切り
+
 涙のひとつも流したら
+
 少し気にしてくれるでしょ
+
 みんなこぼれて鍋の底
+
 煮込んでしまえば 形もなくなる
+
 もうすぐ出来上がり
+
 あなたのために Chinese soup
+
 今夜のスープは Chinese soup
+
 あなたのために Chinese soup
+
 今夜のスープは Chinese soup
-```
+
 
 **ROMAJI**
 
@@ -102,7 +120,7 @@ mou sugu dekiagarianata no tame ni Chinese soup
 kon’ya no su-pu wa Chinese soup
 
 
-
+\
 osoi kaeri wo matsu toki wa
 
 puti onion no mijin-giri
@@ -120,6 +138,7 @@ anata no tame ni Chinese soup
 kon’ya no su-pu wa Chinese soup
 
 * note
+
 莢えんどう = dau ha lan
   
   
