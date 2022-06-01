@@ -42,9 +42,9 @@ khi thấy em có rơi giọt nước mắt không.
 \
 Tất cả, đều chìm sôi dưới đáy nồi
 
-Chúng mất dạng khi em ninh nhừ.
+mất dạng khi em ninh nhừ.
 
-Khoảng tý nữa thôi, là xong rồi
+Khoảng tý nữa thôi, là xong xuôi
 
 
 \
