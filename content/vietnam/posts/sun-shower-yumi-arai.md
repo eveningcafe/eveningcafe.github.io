@@ -41,19 +41,19 @@ Khói sương tỏa ra
 Vương chân trời.
 
 \
-Để sửa lại ván lướt sóng 
-
-Anh nói anh cần đến tiệm "Goddesu"
+Để sửa lại ván lướt sóng anh nói anh cần đến tiệm "Goddesu"
 
 Em biết là cản trở, 
 
-khi đưa anh tới tận đây
+khi đưa anh tới tận đây.
+
+Xin lỗi nhé :3
 
 \
 :notes: :notes: :notes:
 
 \
-Mưa rào đầy đường
+Mưa rào đầu hạ
 
 là không may thôi  
 
