@@ -2,7 +2,7 @@
 title: 'Wish I Could Back to That Day - Yumi Arai '
 showDate: true
 comments: true
-date: 2022-06-01
+date: 2022-06-01T09:47:11+07:00
 tags: ["CityPop", "Yuming"]
 ---
 [あの日にかえりたい](https://www.youtube.com/watch?v=2qJnqZenIFY)

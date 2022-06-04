@@ -3,7 +3,7 @@ title: 'Vapor Trails - Yumi Arai'
 showDate: true
 comments: true
 tags: ["CityPop", "Yuming"]
-date: '2022-06-01'
+date: 2022-06-01T10:47:11+07:00
 ---
 [ひこうき雲](https://www.youtube.com/watch?v=SlXL1A7rrxo)
 
