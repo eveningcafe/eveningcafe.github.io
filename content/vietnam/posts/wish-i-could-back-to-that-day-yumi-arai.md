@@ -31,7 +31,7 @@ Khi nó rời xa chúng ta.
 Để gặp anh.
 
 \
-Khi màn đêm dần bap lấy thành phố.
+Khi màn đêm dần bao lấy thành phố.
 
 Khi ký ức tôi đi lang thang mọi nơi.
 
