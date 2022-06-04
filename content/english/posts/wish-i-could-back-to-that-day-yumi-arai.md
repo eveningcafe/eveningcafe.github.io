@@ -56,11 +56,11 @@ I wouldn’t be hurting anyone
 
 If I threw away my love for you now
 
-I’m going to wedge my slightly blurry address
+But putting your blurry address
 
-In your door and go back to that day
+In my door, I'll return to those days
 
-
+---
 
 **Kanji**
 

@@ -63,56 +63,6 @@ Quay lại cái ngày đó.
 
 ---
 
-**ENGLISH**
-
-I piece together the photo I tore up
-
-In tears in the palm of my hand
-
-Seeing myself smiling yesterday, worry-free
-
-Hurts for reasons I can’t explain
-
-
-\
-We all forget what our adolescence looks like
-
-As it walks away from us
-
-Wish I could go back to who I used to be then
-
-And see you
-
-
-\
-My memories wander through the sky
-
-As twilight begins to fall in the city
-
-I can see myself running through the shiny breezes,
-
-The waves of grass
-
-
-\
-We all forget what our adolescence looks like
-
-As it walks away from us
-
-Wish I could go back to who I used to be then
-
-And see you
-
-
-I wouldn’t be hurting anyone
-
-If I threw away my love for you now
-
-But putting your blurry address
-
-In my door, I'll return to those days
-
-
 **Kanji**
 
 泣きながら ちぎった写真を
