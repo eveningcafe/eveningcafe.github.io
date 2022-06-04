@@ -13,9 +13,55 @@ tags: ["CityPop", "Yuming"]
 
 **Lời dịch**
 
-Để tạm lát ra chơi dịch tiếp 
+Giọt lệ rơi xuống những ngón tay.
 
-...
+Khi tôi cố ghép lại tấm ảnh từ mạnh vụn tôi từng xé. 
+
+Thấy nụ cười bản thân ngày nào không ưu sầu.
+
+Không lý do nào, tự dưng nhói đau.
+
+\
+Tất cả chúng ta đều quên tuổi thanh xuân chúng ta trông như thế nào
+
+Khi nó rời xa chúng ta.
+
+Ước gì tôi có thể quay lại lúc đó
+
+Để gặp anh.
+
+\
+Khi màn đêm dần bap lấy thành phố.
+
+Khi ký ức tôi đi lang thang mọi nơi.
+
+Tôi có thấy mình chạy xuyên qua 
+
+những đợt sóng cỏ dập dềnh.
+
+\
+Khi thời thanh xuân khuất bóng 
+
+Chúng ta đều lãng quên chúng từng thế nào.
+
+Ước gì tôi có thể quay lại ngày đó.
+
+Để gặp anh.
+
+\
+Bây giờ nếu tình yêu cho anh, em vứt bỏ 
+
+Thì chắc không còn ai thương tổn nữa, nhưng.
+
+Bằng cách đưa cái địa chỉ mờ của anh 
+
+Vào giữa ngưỡng cửa, em có thể lại quay về nhà, 
+
+Quay lại cái ngày đó.
+
+~ ta ta ta ta la... 
+
+---
 
 **ENGLISH**
 
@@ -62,10 +108,9 @@ I wouldn’t be hurting anyone
 
 If I threw away my love for you now
 
-I’m going to wedge my slightly blurry address
+But putting your blurry address
 
-In your door and go back to that day
-
+In my door, I'll return to those days
 
 
 **Kanji**
@@ -116,7 +161,11 @@ In your door and go back to that day
 
 少しだけ にじんたアドレス
 
-扉に はさんで 帰るわ あの日に
+扉に はさんで 
+
+帰るわ 
+
+あの日に
 
 
 

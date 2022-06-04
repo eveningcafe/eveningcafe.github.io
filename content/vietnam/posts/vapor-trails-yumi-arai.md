@@ -30,7 +30,7 @@ Cuộc đời cô là làn vệt khói vương.
 \
 Từ ô cửa sổ trên cao, ngay cả trước khi từ giã cuộc đời
 
-Bầu trời xanh, cô vẫn dõi mắt theo 
+Bầu trời xanh, cô vẫn dõi mắt theo.
 
 Đến giờ tôi vẫn không hiểu tại sao
 
@@ -40,7 +40,7 @@ Những người khác cũng không một ai hiểu
 
 Họ chỉ nghĩ như vậy
 
-Nhưng thật ra cô bé rất hạnh phúc 
+Nhưng thật ra cô bé rất hạnh phúc.
 
 \
 Cô khát khao bầu trời,  
@@ -50,7 +50,6 @@ Cô lao đi giữa khoảng không rộng lớn.
 Định mệnh cuộc đời cô, là vệt khói vương.
 
 \
-
 Bầu trời mà cô ước ao, bầu trời xanh cô bay qua. 
 
 Định mệnh cuộc đời cô, là vệt khói vương.
