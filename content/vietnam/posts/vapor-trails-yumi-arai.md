@@ -11,49 +11,49 @@ date: '2022-06-01'
 
 ---
 **Lời dịch**
-Chưa xong, lát đi ăn dịch
 
----
-**ENGLISH**
+Con dốc trắng nối dài tận bầu trời
 
-The white slope continued on to the sky
+Làn hơi nóng bao quanh người cô bé.
 
-Wavering, ephemerality envelops her
+Không một ai nhận ra, chỉ cô độc một mình
 
-Unnoticed by anyone, all alone,
+Cô bé leo từng bước
 
-She is ascending
-
-She fears nothing, and soars up high
-
+Không e sợ điều gì, cô vút bay lên trời cao.
 
 \
-She admires the sky, is dashing through the sky
+Cô bé khát khao bầu trời, cô lao qua khoảng không 
 
-Vapor trails are her life
-
-
-\
-At that high window, even before her death,
-
-She looked to the sky, and now they don’t understand
-
-Other people don’t understand
-
-They only think that
-
-She was too young, but she is happy
-
+Cuộc đời cô là làn vệt khói vương.
 
 \
-She admires the sky, is dashing through the sky
+Từ ô cửa sổ trên cao, ngay cả trước khi từ giã cuộc đời
 
-Vapor trails are her life
+Bầu trời xanh, cô vẫn dõi mắt theo 
 
-She admires the sky, is dashing through the sky
+Đến giờ tôi vẫn không hiểu tại sao
 
-Vapor trails are her life
+Những người khác cũng không một ai hiểu 
 
+"Cô bé vẫn còn quá trẻ"
+
+Họ chỉ nghĩ như vậy
+
+Nhưng thật ra cô bé rất hạnh phúc 
+
+\
+Cô khát khao bầu trời,  
+
+Cô lao đi giữa khoảng không rộng lớn.  
+
+Định mệnh cuộc đời cô, là vệt khói vương.
+
+\
+
+Bầu trời mà cô ước ao, bầu trời xanh cô bay qua. 
+
+Định mệnh cuộc đời cô, là vệt khói vương.
 
 --- 
 **Kanji**
@@ -94,23 +94,40 @@ Vapor trails are her life
 
 **ROMAJI**
 
-shiroi sakamichi ga sora made tsuzuiteita
+Shiroi sakamichi ga sora made tsudzuite ita
 
-yurayura kagerou ga ano ko wo tsutsumu
+Yurayura kagerou ga ano ko wo tsutsumu
 
-daremo kizukazu tada hitori
+Dare mo kidzukazu tada hitori
 
-ano ko wa nobotte ikunanimo osorenai soshite maiagaru
+Ano ko wa nobotte yuku
 
+Nani mo osorenai, soshite maiagaru
 
+\
+Sora ni akogarete Sora wo kakete yuku
 
-sora ni akogarete sora wo kakete yukuano ko no inochi wa hikoukigumo
+Ano ko no inochi wa hikoukigumo
 
-takai ano mado de ano ko wa shinu mae mosora wo mite ita no ima wa wakaranaihoka no hito ni wa wakaranaiamari ni mo wakasugita totada omou dake keredo shiawase
+\
+Takai ano mado de   ano ko wa shinu mae mo
 
-sora ni akogarete sora wo kakete yukuano ko no inochi wa hikoukigumo
+Sora wo mite ita no   ima wa wakaranai
 
-sora ni akogarete sora wo kakete yukuano ko no inochi wa hikoukigumo
+Hoka no hito niwa   wakaranai
 
+Amari nimo wakasugita to   tada omou dake
 
+Keredo   shiawase
 
+\
+Sora ni akogarete Sora wo kakete yuku
+
+Ano ko no inochi wa hikoukigumo
+
+Sora ni akogarete Sora wo kakete yuku
+
+Ano ko no inochi wa hikoukigumo
+
+---
+{{< figure src="/photos/from-notion/trai.png" >}}

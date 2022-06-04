@@ -87,23 +87,41 @@ Vapor trails are her life
 
 **ROMAJI**
 
-shiroi sakamichi ga sora made tsuzuiteita
+Shiroi sakamichi ga sora made tsudzuite ita
 
-yurayura kagerou ga ano ko wo tsutsumu
+Yurayura kagerou ga ano ko wo tsutsumu
 
-daremo kizukazu tada hitori
+Dare mo kidzukazu tada hitori
 
-ano ko wa nobotte ikunanimo osorenai soshite maiagaru
+Ano ko wa nobotte yuku
 
+Nani mo osorenai, soshite maiagaru
 
+\
+Sora ni akogarete Sora wo kakete yuku
 
-sora ni akogarete sora wo kakete yukuano ko no inochi wa hikoukigumo
+Ano ko no inochi wa hikoukigumo
 
-takai ano mado de ano ko wa shinu mae mosora wo mite ita no ima wa wakaranaihoka no hito ni wa wakaranaiamari ni mo wakasugita totada omou dake keredo shiawase
+\
+Takai ano mado de   ano ko wa shinu mae mo
 
-sora ni akogarete sora wo kakete yukuano ko no inochi wa hikoukigumo
+Sora wo mite ita no   ima wa wakaranai
 
-sora ni akogarete sora wo kakete yukuano ko no inochi wa hikoukigumo
+Hoka no hito niwa   wakaranai
 
+Amari nimo wakasugita to   tada omou dake
 
+Keredo   shiawase
+
+\
+Sora ni akogarete Sora wo kakete yuku
+
+Ano ko no inochi wa hikoukigumo
+
+Sora ni akogarete Sora wo kakete yuku
+
+Ano ko no inochi wa hikoukigumo
+
+---
+{{< figure src="/photos/from-notion/trai.png" >}}
 
