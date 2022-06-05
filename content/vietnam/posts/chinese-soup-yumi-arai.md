@@ -23,7 +23,7 @@ Tất cả, đều chìm tràn nơi đáy nồi
 
 Chúng nhừ mất dạng lúc em ninh.
 
-Sắm rồi, tí nữa thôi, sẽ xong xuôi.
+Sắp rồi, tí nữa thôi, sẽ xong xuôi.
 
 \
 Em nấu nó cho anh  *Chinese soup*
