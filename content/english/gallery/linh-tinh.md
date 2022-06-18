@@ -1,6 +1,6 @@
 ---
 title: "Linh Tinh"
-date: 2019-05-01T23:23:13+07:00
+date: 2020-05-01T23:23:13+07:00
 comments: false
 tags: ["gallery"]
 ---
@@ -9,5 +9,6 @@ Thỉnh thoảng chụp xong cũng không nhớ chụp hôm nào, chụp về ch
 
 [//]: # ({{< gallery dir="/photos/linh-tinh" />}} {{< load-photoswipe >}})
 
-{{< figure src="/photos/linh-tinh/rainbow1.png" >}}
-{{< figure src="/photos/linh-tinh/sutori1.png" >}}
+[//]: # ({{< figure src="/photos/linh-tinh/rainbow1.jpeg" >}})
+
+[//]: # ({{< figure src="/photos/linh-tinh/sutori1.jpeg" >}})

@@ -57,5 +57,5 @@ weight = 2
 [menu]
 [[menu.after]]
 name = "Notes"
-url = "https://eveningcafe.github.io/notess"
+url = "https://eveningcafe.memos.pub/til"
 weight = 10

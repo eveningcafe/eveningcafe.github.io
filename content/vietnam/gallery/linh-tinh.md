@@ -1,6 +1,6 @@
 ---
 title: "Linh Tinh"
-date: 2022-05-01T23:23:13+07:00
+date: 2020-05-01T23:23:13+07:00
 comments: false
 tags: ["gallery"]
 ---
