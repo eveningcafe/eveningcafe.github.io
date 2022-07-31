@@ -12,9 +12,6 @@ tags: ["CityPop", "Yuming"]
 ---
 {{< figure src="/photos/from-notion/4c1c265ced24e3b107437584621466c3e187d6f2.png" >}}
 
----
-**Lời dịch**
-
 
 
 ---
