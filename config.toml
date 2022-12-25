@@ -14,7 +14,7 @@ BookServiceWorker = true
 BookDateFormat = 'Jan 02, 2006'
 BookEditPath = 'edit/master'
 BookCommitPath = 'commit'
-BookLogo = '/logo.jpeg'
+#BookLogo = '/logo.jpeg'
 # set all headings to their default size (depending on browser settings)
 # it's set to `true` by default
 # oneHeadingSize = false
@@ -28,7 +28,7 @@ ordered = false
 startLevel = 2
 
 [markup.highlight]
-style = 'xcode'
+style = 'algol_nu'
 noClasses = true
 codeFences = true
 guessSyntax = false
@@ -59,3 +59,8 @@ weight = 2
 name = "Notes"
 url = "https://eveningcafe.memos.pub/til"
 weight = 10
+
+[[menu.after]]
+name = "Swim"
+url = "https://eveningcafe.github.io/po"
+weight = 11
