@@ -28,6 +28,11 @@ Email is probably best, get me directly on `ngohoa211@gmail.com` or reach me out
       </a>
     </li>
     <li>
+      <a href="https://www.instagram.com/hoanq44/">
+        <i class="fa fa-instagram"></i>
+      </a>
+    </li>
+    <li>
       <a href="https://facebook.com/profile.php?id=100003104781852">
         <i class="fa fa-facebook"></i>
       </a>
