@@ -56,8 +56,8 @@ weight = 2
 
 [menu]
 [[menu.after]]
-name = "Notes"
-url = "https://eveningcafe.memos.pub/til"
+name = "Substack"
+url = "https://eveningcafe.substack.com"
 weight = 10
 
 [[menu.after]]
