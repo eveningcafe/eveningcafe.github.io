@@ -62,5 +62,5 @@ weight = 10
 
 [[menu.after]]
 name = "Swim"
-url = "https://eveningcafe.github.io/po"
+url = "https://eveningcafe.org/po/"
 weight = 11
